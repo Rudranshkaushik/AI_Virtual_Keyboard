@@ -35,3 +35,6 @@ To run the AI Virtual Keyboard, you will need:
 ## Installation
 
 - Clone the repository
+- Run Text.py to see the output at the same time
+- Run main.py to only see the keyboard
+- 
